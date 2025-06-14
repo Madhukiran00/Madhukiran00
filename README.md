@@ -6,7 +6,7 @@
 <b>I am a self-taught Full-Stack Developer from India.</b> <br>
 Passionate and motivated 🚀 Full Stack Developer eager to kickstart a successful career in the dynamic world of web development.<br><br/>
 I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-A passionate Full Stack Developer having an experience of building Websites with HTML, CSS, Bootstrap, JavaScript, PHP, Python and some other cool libraries and frameworks.</p>
+A passionate Full Stack Developer having an experience of building Websites with HTML, CSS, Bootstrap, JavaScript,Python and some other cool libraries and frameworks.</p>
 
 <center>
     <div align="center" style="margin-top:20px;">
@@ -68,10 +68,6 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 
 
-
-
-
-
 ## 🍧 Design Tools
 
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)][repo]
@@ -127,11 +123,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 ## ☃️ My Learning Resources
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
-[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
-![Codecademy](https://img.shields.io/badge/Codecademy-000000.svg?&style=for-the-badge&logo=Codecademy&logoColor=green)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 ![coursera](https://img.shields.io/badge/coursera-317cee?style=for-the-badge&logo=coursera&logoColor=white)
@@ -156,12 +148,11 @@ A passionate Full Stack Developer having an experience of building Websites with
 ## Connect with me
 <p align="left" id="contact">
 
-<a href = "https://www.linkedin.com/in/keerti-vishwkarma-8ba754243"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/keertivishwkarma"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/keertivishwkarma1924/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/keerti.vishwkarma"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://codepen.io/Keerti-Vishwkarma"><img src="https://img.icons8.com/fluent/48/000000/codepen.png"/></a>
-<a href = "https://github.com/keerti1924"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.linkedin.com/in/contactmadhukiran/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/madhukiran00"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/i_am_safe_00/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/share/15iex1aEcy/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://github.com/Madhukiran00"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 </p>
 
