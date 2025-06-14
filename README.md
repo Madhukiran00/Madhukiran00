@@ -27,7 +27,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://keerti1924.github.io/Portfolio-Website/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://madhu.github.io/Portfolio-Website/)**
 
 - 💬 Ask me about anything, I am happy to help.
 
@@ -44,18 +44,18 @@ A passionate Full Stack Developer having an experience of building Websites with
 <br>
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhukiran00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhukiran00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></p>
 <br>
 
-<p><a href="https://github.com/keerti1924/github-readme-stats"><img alt="Keerti Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerti1924&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p><a href="https://github.com/Madhukiran00/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukiran00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/Madhukiran00/"><img src="https://github-profile-trophy.vercel.app/?username=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></a> </p>
+<p align="left"> <a href="https://github.com/Madhukiran00/"><img src="https://github-profile-trophy.vercel.app/?username=Madhukiran00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="madhu" /></a> </p>
 <br>
 
 
@@ -64,40 +64,39 @@ A passionate Full Stack Developer having an experience of building Websites with
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
+
+
+
+
+
 
 
 ## 🍧 Design Tools
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")][repo]
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)][repo]
 
 ## ⚙️ Backend Development
 
 
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
-[![Redis](https://img.shields.io/badge/laravel-%23DD0031.svg?style=for-the-badge&logo=laravel&logoColor=white "Laravel")][repo]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)][repo]
 [![](https://img.shields.io/badge/django-yellow?style=for-the-badge&logo=django&logoColor=white)][repo]
 
 
 ## 📅 Databases
 
-[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
+[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 
 
 
 
 ## 🛠️ Developers Tools
 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
+
+
 
 >
 
@@ -105,15 +104,14 @@ A passionate Full Stack Developer having an experience of building Websites with
 ## 📄 Code Editors & IDES
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
-
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
 
 ## 🌐 Browsers
 
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
+[![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white "Safari")][repo]
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")][repo]
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -121,6 +119,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 ## ⭕ Operating Systems
 
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white "macOS")][repo]
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
