@@ -157,15 +157,15 @@ A passionate Full Stack Developer having an experience of building Websites with
 </p>
 
 ## ❤ Views and Followers
-#### Thanks for checking out my GitHub Profile! 🙏
+#### Thanks for checking out my GitHub Profile! 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-![](https://img.shields.io/github/followers/keerti1924?logo=github&style=for-the-badge)
+![](https://img.shields.io/github/followers/Madhukiran00?logo=github&style=for-the-badge)
 <a href="https://github.com/keerti1924/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=keerti1924&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=keerti192&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/keerti1924/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/Madhukirna00/github-profile-views-counter
 
 
 
