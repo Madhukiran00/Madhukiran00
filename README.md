@@ -139,7 +139,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/keerti1924?tab=repositories
+[repo]: https://github.com/Madhukiran00?tab=repositories
 <hr />
 
 
@@ -160,8 +160,8 @@ A passionate Full Stack Developer having an experience of building Websites with
 #### Thanks for checking out my GitHub Profile! 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![](https://img.shields.io/github/followers/Madhukiran00?logo=github&style=for-the-badge)
-<a href="https://github.com/keerti1924/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=keerti192&style=for-the-badge">
+<a href="https://github.com/Madhukiran00/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Madhukiran00&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
