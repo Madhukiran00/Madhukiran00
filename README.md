@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="madhu.png" />
+<img align="right" alt="GIF" src="madhu.png" height='150px' width='100px' />
 
 <div style="margin:50px; padding:50px;">
 <h1 align="center" >Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Madhu</h1>
