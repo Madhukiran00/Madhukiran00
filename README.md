@@ -13,7 +13,7 @@ A passionate Full Stack Developer having an experience of building Websites with
     <a href="#contact" style="padding:10px;">
         <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
-    <a href="keerti_resume.pdf" style="padding:5px;">
+    <a href="Madhu_resume.pdf" style="padding:5px;">
         <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
 </div>
@@ -31,7 +31,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 - 💬 Ask me about anything, I am happy to help.
 
-- 📫 How to reach me **keertidvcorai@gmail.com**
+- 📫 How to reach me **pillimadhukiran00@gmail.com**
 
 - 🔭 I’m currently working on <b>something cool!</b>
   
@@ -55,7 +55,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/keerti1924/"><img src="https://github-profile-trophy.vercel.app/?username=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></a> </p>
+<p align="left"> <a href="https://github.com/Madhukiran00/"><img src="https://github-profile-trophy.vercel.app/?username=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></a> </p>
 <br>
 
 
@@ -91,15 +91,14 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
-[![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")][repo]
+
 
 
 
 ## 🛠️ Developers Tools
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
+
 >
 
 
