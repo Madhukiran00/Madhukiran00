@@ -25,7 +25,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://madhu.github.io/Portfolio-Website/)**
 
