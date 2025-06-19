@@ -47,8 +47,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhukiran00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhukiran00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></p>
-<br>
+
 
 <p><a href="https://github.com/Madhukiran00/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukiran00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
