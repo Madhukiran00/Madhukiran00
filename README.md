@@ -3,7 +3,7 @@
 <div style="margin:50px; padding:50px;">
 <h1 align="center" >Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Madhu</h1>
 <p align="center">
-<b>A self-taught Full Stack Developer skilled in designing and developing modern web applications.</b> <br>
+<b>A self-taught Full Stack Developer skilled in designing and developing modern web applications.</b> 
 Passionate and motivated 🚀 Full Stack Developer eager to kickstart a successful career in the dynamic world of web development.<br><br/>
 I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
 A passionate Full Stack Developer having an experience of building Websites with HTML, CSS, Bootstrap, JavaScript,Python and some other cool libraries and frameworks.</p>
